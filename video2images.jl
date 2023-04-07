@@ -36,7 +36,7 @@ end
 # CAREFUL this command will delete all png files in folder
 
 # del filename*.png
-# only images starting with filename will be deletec
+# only images starting with filename will be deleted
 
 
 
