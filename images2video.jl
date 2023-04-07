@@ -1,5 +1,5 @@
 # AIM: Make video from images
-# METHOD: mages are fetched from a video
+# METHOD: Images are fetched from a video
 # USES: You can cut a video short, skip the frames and change frame rate with this code
 # REQUIREMENT: ffmpeg software (installation guide --->>>>> Microscale Robotics Laboratory notebook: Software installation: ffmpeg), julia packages mentioned in using ----
 # VARIABLES:   path, filename, fname, n
